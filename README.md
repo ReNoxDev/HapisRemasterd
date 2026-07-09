@@ -1,4 +1,11 @@
 # HapisRemasterd
+
+
+
+
+Used as an asset repo for rebuilds of Hapis in later game versions, this Map is now Obsoulette with the 4 seperate changes to games rocks assets I will not be updating
+Works with 2024 Rust
+
 Remastered Version of Hapis Island RustMAP 
 
 
